@@ -1,0 +1,4 @@
+# Os microdados do ENEM são muito grandes: não suba para o GitHub
+*.csv
+*.zip
+__pycache__/
